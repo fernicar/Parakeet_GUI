@@ -1,0 +1,6 @@
+numpy<2.0
+cuda-python>=12.9.0
+PySide6>=6.9.0
+nemo_toolkit[asr]
+pydub
+torch --index-url https://download.pytorch.org/whl/nightly/cu121
