@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/b53756dd-3811-409e-8aea-904228d8656e
 
 ## Description
 
-Parakeet_GUI is a desktop application built using the TINS paradigm for transcribing audio files into timed text. It leverages NVIDIA's high-quality Parakeet Automatic Speech Recognition (ASR) model (`nvidia/parakeet-tdt-0.6b-v2`), which requires a CUDA-enabled GPU for performance.
+Parakeet_GUI is a desktop application built using the TINS paradigm for transcribing audio files into timed text. It leverages NVIDIA's high-quality Parakeet Automatic Speech Recognition (ASR) model ([`nvidia/parakeet-tdt-0.6b-v2`](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2)), which requires a CUDA-enabled GPU for performance.
 
 The application provides a user interface to load audio files or existing SRT transcripts, perform ASR transcription with word-level timing, display the resulting text synchronized with playback, and save the output as a standard SRT file. Users can interactively navigate through the text, adjust highlighting granularity (sentence, word, character), and control playback/simulation speed. The application includes robust checks and clear error messages to guide users through common setup challenges related to dependencies like FFmpeg, CUDA, and the NeMo toolkit.
 
