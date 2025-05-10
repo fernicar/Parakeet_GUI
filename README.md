@@ -147,7 +147,7 @@ graph TD
 
 
     classDef default fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef pyqt fill:#acf,stroke:#333,stroke-width:2px;
+    classDef pyqt fill:#668,stroke:#333,stroke-width:2px;
     class A,B,C,D,E,F,F1,F1a,F1b pyqt;
     class B1,B2,B1a,B1b,B1c,B1d,B1e,B1f,B1g,B2h,B2i,B2j,B2k,B2l,B2m,B2l1,B2l2,B2l3,B2m1,B2m2 pyqt;
 ```
