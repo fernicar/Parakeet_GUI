@@ -1,7 +1,7 @@
 # Parakeet_GUI
-![app_capture1](images\app_capture1.png)
+![app_capture1](images/app_capture1.png)
 
-![demo](videos\demo.mp4)
+https://github.com/user-attachments/assets/b53756dd-3811-409e-8aea-904228d8656e
 
 ## Description
 
@@ -170,6 +170,7 @@ graph TD
     ```bash
     python main.py
     ```
+
 ## TINS in Practice - A Reflection
 
 This project serves as a practical example of the [TINS](https://github.com/ScuffedEpoch/TINS) methodology in action. The detailed [`README.md`](TINS_Edition/README.md) acted as the "source," which the AI interpreted to generate the implementation.
@@ -191,6 +192,22 @@ This project is part of the larger [ThereIsNoSource.com](https://thereisnosource
 ## Contributing
 
 Contributions are welcome! If you would like to contribute, please refer to the core [TINS Contributing Guidelines](https://github.com/ScuffedEpoch/TINS/blob/main/CONTRIBUTING.md) and follow standard GitHub pull request workflows.
+
+## Aknowledgments
+*   Special thanks to ScuffedEpoch for the TINS methodology and the initial example.
+*   Thanks to the free tier AI assistant for its initial contribution to the project.
+*   Research LLM Gemini2.5flash (free tier beta testing) from Google AI Studio.
+
+This project builds upon the foundations of the following projects:
+- [TINS Edition](https://ThereIsNoSource.com) - TINS Specification platform that enables:
+  - Complete application reconstruction from specification
+  - Self-documenting architecture through detailed markdown
+  - Future-proof design adaptable to advancing LLM capabilities
+  - Progressive enhancement support as LLM technology evolves
+  - Platform-agnostic implementation guidelines
+  - Flexible technology stack selection within specified constraints
+  - Comprehensive behavioral specifications for consistent rebuilds
+  - Automatic adaptation to newer LLM models and capabilities
 
 ## License
 
